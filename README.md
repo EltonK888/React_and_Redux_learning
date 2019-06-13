@@ -1,8 +1,8 @@
-# React learning
+# React and Redux learning
 
-## A Simple TODO list created with react
+## A Simple TODO list created with react & redux
 
-This is a simple TODO list project that I created to learn react basics. You can enter an task you need to do as well as notes about the task. Tasks can be marked as complete and will turn green and can also be deleted.
+This is a simple TODO list project that I created to learn react and redux basics. You can enter an task you need to do as well as notes about the task. Tasks can be marked as complete and will turn green and can also be deleted.
 
 ![Todo-list](./src/Todolist.png)
 

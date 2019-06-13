@@ -1,11 +1,12 @@
 import React from 'react';
 import PropTypes from "prop-types";
+import { connect } from "react-redux";
 
 const Item = (props) => {
     let style = {
         backgroundColor: props.backgroundColor
     }
-
+    console.log(props)
     return (
         <div className="card my-4" style={style}>
             <h2 className="text-center">{props.todoItem}</h2>
