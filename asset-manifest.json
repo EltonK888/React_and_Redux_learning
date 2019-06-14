@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react_and_redux_learning/static/css/main.6b241ece.chunk.css",
-    "main.js": "/react_and_redux_learning/static/js/main.e7fa7679.chunk.js",
-    "main.js.map": "/react_and_redux_learning/static/js/main.e7fa7679.chunk.js.map",
-    "runtime~main.js": "/react_and_redux_learning/static/js/runtime~main.9c238b67.js",
-    "runtime~main.js.map": "/react_and_redux_learning/static/js/runtime~main.9c238b67.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/react_and_redux_learning/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.500675a6.chunk.js": "/react_and_redux_learning/static/js/2.500675a6.chunk.js",
-    "static/js/2.500675a6.chunk.js.map": "/react_and_redux_learning/static/js/2.500675a6.chunk.js.map",
-    "index.html": "/react_and_redux_learning/index.html",
-    "precache-manifest.67d741d42b7189b723dce70735b43eff.js": "/react_and_redux_learning/precache-manifest.67d741d42b7189b723dce70735b43eff.js",
-    "service-worker.js": "/react_and_redux_learning/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/react_and_redux_learning/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.6b241ece.chunk.css.map": "/react_and_redux_learning/static/css/main.6b241ece.chunk.css.map"
+    "main.css": "/React_and_Redux_learning/static/css/main.6b241ece.chunk.css",
+    "main.js": "/React_and_Redux_learning/static/js/main.f04e7d29.chunk.js",
+    "main.js.map": "/React_and_Redux_learning/static/js/main.f04e7d29.chunk.js.map",
+    "runtime~main.js": "/React_and_Redux_learning/static/js/runtime~main.46796986.js",
+    "runtime~main.js.map": "/React_and_Redux_learning/static/js/runtime~main.46796986.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/React_and_Redux_learning/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.44e10cb5.chunk.js": "/React_and_Redux_learning/static/js/2.44e10cb5.chunk.js",
+    "static/js/2.44e10cb5.chunk.js.map": "/React_and_Redux_learning/static/js/2.44e10cb5.chunk.js.map",
+    "index.html": "/React_and_Redux_learning/index.html",
+    "precache-manifest.65456fe13d8ed31b1ee2d141beb378bf.js": "/React_and_Redux_learning/precache-manifest.65456fe13d8ed31b1ee2d141beb378bf.js",
+    "service-worker.js": "/React_and_Redux_learning/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/React_and_Redux_learning/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.6b241ece.chunk.css.map": "/React_and_Redux_learning/static/css/main.6b241ece.chunk.css.map"
   }
 }
